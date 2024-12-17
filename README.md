@@ -4,14 +4,21 @@
 ---
 ### 👨‍💻 About me:
 
-I am an aspiring programmer with a great passion for the world of information technology. I am currently 16 years old and I started my exciting journey into the world of programming when I was only 13 years old.
+I’m a young, ambitious programmer with a strong passion for the world of information technology. My programming journey began at the age of 13, and since then, it has become an essential part of my life. Now, at 17, I am continuously growing and advancing my skills in this exciting field.
 
 ### 🌱 My experience
-For a year and a half I paid close attention to the Python language and successfully mastered its basics. My efforts in learning Python allowed me to not only understand the basics of programming, but also to begin solving real-world problems and creating my own programs. I'm currently actively learning Java, expanding my skills and horizons in the world of programming. This language opens me up to new opportunities and challenges that I look forward to.
+I started with Python, where I spent 1.5 years mastering the basics. During this time, I learned not only to understand programming fundamentals but also to solve practical problems and build my own programs.
+Currently, I’m diving into Java, which is helping me explore new opportunities and take on more challenging projects. This step allows me to expand my knowledge and prepare for the next level in my programming journey.
 
-- 🔭 Successfully completed 2 Python courses on Stepik
-- ⚡I really want to master the IT profession and find a job
-- 📫 How can you contact me:  [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
+### 💻 Achievements:
+🔹 🔭 Successfully completed 2 Python courses on Stepik
+🔹 🛠️ Built personal projects and gained hands-on experience
+
+### 🎯 My Goal
+🔹 I aim to master an IT profession, continuously improve my skills, and secure a job in the industry where I can make a real impact.
+
+### 📫 How to Contact Me:
+🔹 [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
 
 ---
 ### 💻 Programming languages I know:
