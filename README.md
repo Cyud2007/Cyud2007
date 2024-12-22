@@ -12,6 +12,7 @@ Currently, I’m diving into Java, which is helping me explore new opportunities
 
 ### 💻 Achievements:
 🔹 🔭 Successfully completed 2 Python courses on Stepik
+
 🔹 🛠️ Built personal projects and gained hands-on experience
 
 ### 🎯 My Goal
