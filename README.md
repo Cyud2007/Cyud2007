@@ -4,19 +4,23 @@
 ---
 ### 👨‍💻 About me:
 
-I’m a young, ambitious programmer with a strong passion for the world of information technology. My programming journey began at the age of 13, and since then, it has become an essential part of my life. Now, at 17, I am continuously growing and advancing my skills in this exciting field.
+I am a motivated aspiring software developer with a strong interest in information technology.
+I began programming at the age of 13, and since then it has become a core part of my academic and professional development. I am continuously improving my skills and expanding my knowledge in software development.
 
 ### 🌱 My experience
-I started with Python, where I spent 1.5 years mastering the basics. During this time, I learned not only to understand programming fundamentals but also to solve practical problems and build my own programs.
-Currently, I’m diving into Java, which is helping me explore new opportunities and take on more challenging projects. This step allows me to expand my knowledge and prepare for the next level in my programming journey.
+I started my programming journey with Python, where I spent approximately 1.5 years building a solid foundation in programming fundamentals, problem-solving, and practical application development.
+
+Currently, I am focusing on Java, exploring object-oriented programming, backend concepts, and real-world project development. This transition allows me to work on more complex systems and prepare for further academic and professional challenges.
 
 ### 💻 Achievements:
-🔹 🔭 Successfully completed 2 Python courses on Stepik
+🔹 🔭 Successfully completed two Python courses on Stepik
 
-🔹 🛠️ Built personal projects and gained hands-on experience
+🔹 🛠️ Developed multiple personal and educational projects
+
+🔹 💡 Gained hands-on experience with real-world programming tasks
 
 ### 🎯 My Goal
-🔹 I aim to master an IT profession, continuously improve my skills, and secure a job in the industry where I can make a real impact.
+🔹 My goal is to build a strong foundation in software engineering, continuously improve my technical skills, and pursue a professional career in the IT industry where I can contribute to meaningful and impactful projects.
 
 ### 📫 How to Contact Me:
 🔹 [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
