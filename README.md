@@ -12,12 +12,16 @@ I started my programming journey with Python, where I spent approximately 1.5 ye
 
 Currently, I am focusing on Java, exploring object-oriented programming, backend concepts, and real-world project development. This transition allows me to work on more complex systems and prepare for further academic and professional challenges.
 
+In addition, I successfully co-developed a custom Discord bot called “WRP” for a private community server, working collaboratively with another developer. The project involved designing bot logic, implementing features, handling event-driven architecture, and ensuring stable deployment and maintenance.
+
 ### 💻 Achievements:
-🔹 🔭 Successfully completed two Python courses on Stepik
+🔹 Successfully completed two Python courses on Stepik
 
-🔹 🛠️ Developed multiple personal and educational projects
+🔹 Developed multiple personal and educational projects
 
-🔹 💡 Gained hands-on experience with real-world programming tasks
+🔹 Co-developed a functional Discord bot (WRP) for a live community server
+
+🔹 Gained hands-on experience with real-world programming tasks
 
 ### 🎯 My Goal
 🔹 My goal is to build a strong foundation in software engineering, continuously improve my technical skills, and pursue a professional career in the IT industry where I can contribute to meaningful and impactful projects.
