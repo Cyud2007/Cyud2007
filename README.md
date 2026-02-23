@@ -18,8 +18,11 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 ### 🛠 Technical Focus
 
 **Languages:** Python, Java
+
 **Core Concepts:** OOP, Data Structures, Event-Driven Architecture, Modular Design
+
 **Tools:** Git, GitHub
+
 **Areas of Interest:** Backend Development, System Architecture, Scalable Application Design
 
 ### 💻 Selected Work:
