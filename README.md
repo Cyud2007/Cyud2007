@@ -4,27 +4,35 @@
 ---
 ### 👨‍💻 About me:
 
-I am a motivated aspiring software developer with a strong interest in information technology.
-I began programming at the age of 13, and since then it has become a core part of my academic and professional development. I am continuously improving my skills and expanding my knowledge in software development.
+I am a software developer focused on backend development and building structured, maintainable systems. I started programming at the age of 13, and over the years I have developed a strong foundation in programming principles, object-oriented design, and practical software architecture.
 
-### 🌱 My experience
-I started my programming journey with Python, where I spent approximately 1.5 years building a solid foundation in programming fundamentals, problem-solving, and practical application development.
+I approach development with an engineering mindset — prioritizing code quality, clarity, and long-term maintainability.
 
-Currently, I am focusing on Java, exploring object-oriented programming, backend concepts, and real-world project development. This transition allows me to work on more complex systems and prepare for further academic and professional challenges.
+### 🌱 Experience
+My programming journey began with Python, where I built a solid foundation in algorithms, problem-solving, and application development.
 
-In addition, I successfully co-developed a custom Discord bot called “WRP” for a private community server, working collaboratively with another developer. The project involved designing bot logic, implementing features, handling event-driven architecture, and ensuring stable deployment and maintenance.
+Currently, I work primarily with Java, focusing on object-oriented design, backend concepts, and building scalable application logic. I pay close attention to code structure, modularity, and clean architecture principles.
 
-### 💻 Achievements:
-🔹 Successfully completed two Python courses on Stepik
+I co-developed a custom Discord bot called “WRP” for a private community server. The project included designing the system structure, implementing event-driven logic, developing moderation and utility features, collaborating through Git-based workflows, and maintaining stable deployment.
 
-🔹 Developed multiple personal and educational projects
+### 🛠 Technical Focus
 
-🔹 Co-developed a functional Discord bot (WRP) for a live community server
+**Languages:** Python, Java
+**Core Concepts:** OOP, Data Structures, Event-Driven Architecture, Modular Design
+**Tools:** Git, GitHub
+**Areas of Interest:** Backend Development, System Architecture, Scalable Application Design
 
-🔹 Gained hands-on experience with real-world programming tasks
+### 💻 Selected Work:
+🔹 Completed structured Python training (Stepik)
 
-### 🎯 My Goal
-🔹 My goal is to build a strong foundation in software engineering, continuously improve my technical skills, and pursue a professional career in the IT industry where I can contribute to meaningful and impactful projects.
+🔹 Built and maintained multiple application-level projects
+
+🔹 Co-developed and deployed a production-used Discord bot
+
+🔹 Worked in a collaborative development workflow
+
+### 🎯 Professional Focus
+🔹 I focus on continuously refining my engineering approach and building reliable, maintainable software systems. I am particularly interested in backend development and contributing to technically challenging projects.
 
 ### 📫 How to Contact Me:
 🔹 [![Telegram Badge](https://img.shields.io/badge/-Cyud-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/Cyud2023) [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](mailto:cyud.2019@gmail.com)
