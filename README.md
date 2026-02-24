@@ -54,14 +54,6 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 
     
 ---
-### 🛠 Tools:
-<img src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg" title="intellij" alt="intellij" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/pycharm/pycharm-original.svg" title="pycharm" alt="pycharm" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-plain-wordmark.svg" title="SQL" alt="SQL" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="linux" alt="linux" width="40" height="40"/>&nbsp;
-
-
----
 ![svg](https://github.com/FilimonovAlexey/FilimonovAlexey/blob/50be29f8a24667802c3fa5393c879a2db3caf641/assets/github-snake.svg)
 
 ---
