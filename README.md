@@ -1,6 +1,5 @@
 
-# Hi there!
-## My name is Semen
+# Hi there! My name is Semen
 
 ---
 ### 👨‍💻 About me:
