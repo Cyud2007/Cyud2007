@@ -16,7 +16,7 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 
 ### 🛠 Technical Focus
 
-**Languages:** Python, Java
+**Languages:** Java
 
 **Core Concepts:** OOP, Data Structures, Event-Driven Architecture, Modular Design
 
@@ -25,8 +25,6 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 **Areas of Interest:** Backend Development, System Architecture, Scalable Application Design
 
 ### 💻 Selected Work:
-🔹 Completed structured Python training (Stepik)
-
 🔹 Built and maintained multiple application-level projects
 
 🔹 Co-developed and deployed a production-used Discord bot
@@ -43,7 +41,6 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 ### 💻 Programming languages I know:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="python" alt="python" width="40" height="40"/>&nbsp;
 
 ---
 ### 🤝 Social networks:
