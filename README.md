@@ -40,7 +40,6 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 ---
 ### 💻 Programming languages I know:
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="java" alt="java" width="40" height="40"/>&nbsp;
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" title="cplusplus" alt="cplusplus" width="40" height="40"/>&nbsp;
 
 ---
 ### 🤝 Social networks:
