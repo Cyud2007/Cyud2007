@@ -1,6 +1,6 @@
 
 # Hi there! My name is Semen
-🌐 Portfolio: [cyud2007.github.io](https://cyud2007.github.io/)
+Portfolio: [cyud2007.github.io](https://cyud2007.github.io/)
 ---
 ### 👨‍💻 About me:
 
