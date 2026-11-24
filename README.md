@@ -45,7 +45,7 @@ I co-developed a custom Discord bot called “WRP” for a private community ser
 ---
 ### 🤝 Social networks:
   <div id="badges">
-    <a href="https://www.linkedin.com/in/simen-poiarkov-2b60b225b/" target="_blank">
+    <a href="[https://www.linkedin.com/in/simen-poiarkov-2b60b225b/](https://www.linkedin.com/in/semen-poiarkov-2b60b225b/)" target="_blank">
       <img src="https://cdn-icons-png.flaticon.com/512/2504/2504799.png" width="40" height="40" alt="linkedin" />
     </a>
 
